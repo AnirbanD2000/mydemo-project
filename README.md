@@ -1,4 +1,4 @@
 # mydemo-project
-this is my first reposatory
+This is my First Reposatory
 <br>
 Author: Anirban Dhali
